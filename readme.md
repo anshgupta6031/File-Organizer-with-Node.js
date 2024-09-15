@@ -1,0 +1,6 @@
+Made a node js program that organizes files based on their extensions into separate directories.
+
+just run the index.js file for execution......
+
+
+please make random clutter files before running.....
